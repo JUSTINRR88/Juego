@@ -39,7 +39,7 @@
 
 @media(max-width: 375px){
     #root{
-        width: 100%;
+        width: 20rem;
         height: 100%;
         border-radius: 0.5rem;
         border: 0.2rem solid rgb(233, 221, 221);
@@ -56,9 +56,6 @@
         border-radius: 0.5rem;
         
     }
-    
-    
-    
     .carta{
         height: 100%;
         background-color: orange;
